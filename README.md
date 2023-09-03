@@ -1,9 +1,10 @@
 # Symbol.dispose and Symbol.asyncDispose polyfill
 
-Polyfill for Symbol.dispose and Symbol.asyncDispose
+Polyfill for `Symbol.dispose` and `Symbol.asyncDispose`
 
 ## Features
 - ESModules and CommonJS
+- No external dependency
 - Unit-tested
 - `Symbol.dispose` is polyfilled as `Symbol.for("dispose")` if not available
 - `Symbol.asyncDispose` is polyfilled as `Symbol.for("asyncDispose")` if not available
@@ -26,7 +27,7 @@ require("@hazae41/symbol-dispose-polyfill")
 
 ### Where? 
 
-You can import the polyfll **in your project entry file** or **in a specific file**, you just need to import it before anything that require Symbol.dispose
+You can import the polyfll **in your project entry file** or **in a specific file**, you just need to import it before anything that requires `Symbol.dispose` or `Symbol.asyncDispose`
 
 (e.g. For a Next.js app, it can be in `_app.js`)
 
