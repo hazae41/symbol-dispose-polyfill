@@ -34,7 +34,7 @@ require("@hazae41/symbol-dispose-polyfill")
 Deno
 
 ```tsx
-import "https://deno.land/x/symbol_dispose_polyfill/mod.ts"
+import "https://deno.land/x/symbol_dispose_polyfill/src/mod.ts"
 ```
 
 ### Where? 
