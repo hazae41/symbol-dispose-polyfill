@@ -1,1 +1,1 @@
-export * from "./mods/index.js";
+import "./mods/mod.ts";

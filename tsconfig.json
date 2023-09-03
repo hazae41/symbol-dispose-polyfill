@@ -6,6 +6,7 @@
     "moduleResolution": "NodeNext",
     "strict": true,
     "downlevelIteration": true,
+    "allowImportingTsExtensions": true,
     "lib": [
       "DOM",
       "ESNext"
