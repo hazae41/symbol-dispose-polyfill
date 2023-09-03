@@ -39,7 +39,7 @@ import "https://deno.land/x/symbol_dispose_polyfill/src/mod.ts"
 
 ### Where? 
 
-You can import the polyfll **in your project entry file** or **in a specific file**, you just need to import it before anything that requires `Symbol.dispose` or `Symbol.asyncDispose`
+You can import the polyfill **in your project entry file** or **in a specific file**, you just need to import it before anything that requires `Symbol.dispose` or `Symbol.asyncDispose`
 
 (e.g. For a Next.js app, it can be in `_app.js`)
 
