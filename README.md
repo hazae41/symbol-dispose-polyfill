@@ -2,6 +2,12 @@
 
 Polyfill for `Symbol.dispose` and `Symbol.asyncDispose`
 
+```bash
+npm i @hazae41/symbol-dispose-polyfill
+```
+
+[**Node Package 📦**](https://www.npmjs.com/package/@hazae41/symbol-dispose-polyfill)
+
 ## Features
 - ESModules and CommonJS
 - No external dependency
