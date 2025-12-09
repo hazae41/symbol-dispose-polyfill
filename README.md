@@ -3,10 +3,14 @@
 Polyfill for `Symbol.dispose` and `Symbol.asyncDispose`
 
 ```bash
-npm i @hazae41/symbol-dispose-polyfill
+npm install @hazae41/symbol-dispose-polyfill
 ```
 
-[**Node Package 📦**](https://www.npmjs.com/package/@hazae41/symbol-dispose-polyfill) • [**Deno Module 🦖**](https://deno.land/x/symbol_dispose_polyfill)
+```bash
+deno install jsr:@hazae41/symbol-dispose-polyfill
+```
+
+[**📦 NPM**](https://www.npmjs.com/package/@hazae41//symbol-dispose-polyfill) • [**📦 JSR**](https://jsr.io/@hazae41//symbol-dispose-polyfill)
 
 ## Features
 - ESModules and CommonJS

@@ -1,1 +1,1 @@
-import "./symbol-dispose-polyfill/polyfill.ts";
+import "./symbol-dispose-polyfill/mod.ts";
