@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "@hazae41/symbol-dispose-polyfill",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Polyfill for Symbol.dispose and Symbol.asyncDispose",
   "repository": "github:hazae41/symbol-dispose-polyfill",
   "author": "hazae41",
